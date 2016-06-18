@@ -10,5 +10,7 @@ package com.actions;
  * @author Nguyen Xuan Hung
  */
 public class NewClass {
-    
+    public static void main(String[] args) {
+        System.out.println("Hello world");
+    }
 }
